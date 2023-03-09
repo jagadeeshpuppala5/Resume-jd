@@ -1,0 +1,20 @@
+body{
+    margin:5%;
+    font-family:'Times New Roman', Times, serif;
+}
+.first{
+    text-align: center;
+}
+.line{
+    text-decoration: underline;
+}
+.ss{
+    font-size:small;
+}
+table{
+    width: 80%;
+    margin:2% 10% 2% 5%;
+}
+h2{
+    color:darkslategray
+}
